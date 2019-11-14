@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "664343648211",
+    "firebase_url": "https://pblshoppingmall-53b86.firebaseio.com",
+    "project_id": "pblshoppingmall-53b86",
+    "storage_bucket": "pblshoppingmall-53b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664343648211:android:6fcb697e405068941f0126",
+        "android_client_info": {
+          "package_name": "com.example.pbl_ndb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664343648211-kn2l64121re319tsci4sifj6vt3cq40c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pbl_ndb",
+            "certificate_hash": "29a2c31c1642745a9c66da36d6336fb704077fd7"
+          }
+        },
+        {
+          "client_id": "664343648211-t6ejb4c6ru6gjrmh1h1nn24l1cgpveak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pbl_ndb",
+            "certificate_hash": "aa0a62c41238a035d25f20c296926d43868cd169"
+          }
+        },
+        {
+          "client_id": "664343648211-880b5phmqsa8sud83seeeq8t10apjvr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDxtot-lDqzX_LUaes292E4xsFBhL5gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664343648211-880b5phmqsa8sud83seeeq8t10apjvr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
